@@ -1,1 +1,1 @@
-# node-vue-multi-user-chat
+# node-vue-multi-user-chat using websockets
